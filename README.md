@@ -33,4 +33,4 @@ This project predicts student exam scores based on study hours using **Linear Re
 ### Option 2 — Local Jupyter Notebook
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/student-score-prediction.git
+git clone https://github.com/Jomana-ElSaghier/student-score-prediction.git
